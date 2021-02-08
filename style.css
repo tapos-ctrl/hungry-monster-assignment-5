@@ -1,0 +1,17 @@
+body{
+    background:sienna;
+}
+.food-meal{
+    display: inline-block;
+    cursor: pointer;
+    
+}
+.img-size img{
+    height: 500px;
+}
+.food-item{
+    cursor: pointer;
+}
+.cord-box{
+    text-align: center;
+}
